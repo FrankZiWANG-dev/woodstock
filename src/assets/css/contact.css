@@ -1,0 +1,37 @@
+#contact {
+    background-color: white;
+    padding: 5% 25% 5% 25%;
+    text-align: center;
+}
+
+#form-title{
+    text-align: left;
+    margin-left: -10%;
+}
+
+input {
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+    border-radius: 20px;
+    padding: 8px;
+    color: #BC9A4466;
+    border: 1px solid #BC9A4466;
+    text-align: center;
+}
+#firstname {
+    width: 43%;
+    margin-right: 2.5%;
+}
+#lastname {
+    width: 43.5%;
+}
+#mail {
+    width: 100%;
+}
+#message {
+    width: 100%;
+    min-height: 180px;
+}
+#submit {
+    width: 60%;
+}

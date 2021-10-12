@@ -4,7 +4,7 @@ import '../css/footer.css';
 const Footer = () => {
   return (
      <footer>
-      <h2> WOOD </h2>
+      <img id="footer-img" alt="footer-img" src="https://github.com/FrankZiWANG-dev/woodstock/blob/main/src/assets/pictures/WOOD.png?raw=true"/>
     </footer>
   );
 }
