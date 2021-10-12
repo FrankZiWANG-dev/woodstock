@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Project Woodstock
+## Objective
+Creating a one-page website according to a mockup using ReactJS.
+To view it, download the repository and run npm start, then go to localhost:3000.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
