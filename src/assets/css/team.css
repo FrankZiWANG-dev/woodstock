@@ -1,0 +1,16 @@
+#team {
+    background-color: black;
+    color: white;
+}
+
+#team-title1{
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+
+#meet-the-team {
+    border: solid 2px gold;
+    background-color: black;
+    color: white;
+}
